@@ -821,13 +821,14 @@ input[type="radio"].visually-hidden {
 
 .social-button:hover,
 .social-button:focus {
-  background-color: #ffffff;
+  background-color: #d40808;
 }
 
 .social-button:hover path,
 .social-button:focus path {
   fill: #000000;
 }
+
 
 .footer-copyright {
   width: 150px;
