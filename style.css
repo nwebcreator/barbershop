@@ -816,19 +816,18 @@ input[type="radio"].visually-hidden {
   height: 43px;
 
   background-color: #000000;
-  background-image: url("facebook.svg");
 }
 
 .social-button:hover,
 .social-button:focus {
   background-color: #ffffff;
-}
+} 
 
 .social-button:hover path,
-.social-button:focus path {
+.social-button:focus path 
+{
   fill: #000000;
-}
-
+} 
 
 .footer-copyright {
   width: 150px;
