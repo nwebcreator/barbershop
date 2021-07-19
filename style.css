@@ -459,6 +459,7 @@ input[type="radio"].visually-hidden {
   position: relative;
 
   margin-right: 42px;
+  margin-bottom: 30px;
 }
 
 .breadcrumbs li:last-child {
@@ -632,6 +633,7 @@ input[type="radio"].visually-hidden {
 .filter-button {
   padding-left: 30px;
   padding-right: 30px;
+  margin-bottom: 40px;
 }
 
 .catalog {
