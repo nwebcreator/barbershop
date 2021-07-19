@@ -80,8 +80,3 @@
             }
         }
     });
-
-    const baxterOfCalifornia = document.querySelector("#baxter-of-california");
-    baxterOfCalifornia.addEventListener('click', (evt) => {
-        window.location.href = 'card.html';
-    });
